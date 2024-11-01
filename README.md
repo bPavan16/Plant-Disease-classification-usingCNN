@@ -1,7 +1,7 @@
 # Plant Disease Detection 
 
 
-This dataset was created to train and evaluate a Plant Disease Detection System using Convolutional Neural Networks (CNN) and transfer learning. Specifically, this system leverages the **ResNet-50** architecture implemented in **PyTorch** and has achieved an accuracy of **82% on the validation set**.
+Plant Disease Detection System using Convolutional Neural Networks (CNN) and transfer learning. Specifically, this system leverages the **ResNet-50** architecture implemented in **PyTorch** and has achieved an accuracy of **82% on the validation set**.
 
 ## Overview
 
